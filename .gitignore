@@ -1,0 +1,6 @@
+﻿*.vsidx
+*.lock
+*.v2
+*.cache
+*.editorconfig
+*.json
