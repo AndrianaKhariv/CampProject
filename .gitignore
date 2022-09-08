@@ -4,3 +4,10 @@
 *.cache
 *.editorconfig
 *.json
+*.sentinel
+*.BuildWithSkipAnalyzers
+*.config
+*.dll
+*.pdb
+*.txt
+*.CopyComplete
