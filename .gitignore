@@ -3,7 +3,6 @@
 *.v2
 *.cache
 *.editorconfig
-*.json
 *.sentinel
 *.BuildWithSkipAnalyzers
 *.config
@@ -13,3 +12,6 @@
 *.CopyComplete
 .vs/CampProject/v17/.suo
 .vs/CampProject/v17/.futdcache.v1
+CampProject/obj/CampProject.csproj.nuget.g.targets
+CampProject/obj/CampProject.csproj.nuget.g.props
+CampProject/CampProject.csproj
